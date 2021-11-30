@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b3c299a22815e393",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a9781dd8c7ea4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "99-what-is-nextjs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d01ad99fafbe8614",
+    "type": "split",
+    "children": [
+      {
+        "id": "1013a314db3c538a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "253e64a65f15bff2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbaf619a1f2ab158",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "517f9401d0d2d7b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcaa6d415308c95d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87d3d04f41a87f99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99-what-is-nextjs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "83a9781dd8c7ea4a",
+  "lastOpenFiles": [
+    "99-what-is-nextjs.md",
+    "99-what-are-others.md"
+  ]
+}
